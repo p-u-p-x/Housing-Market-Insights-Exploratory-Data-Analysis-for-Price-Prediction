@@ -1,0 +1,2 @@
+# Housing-Market-Insights-Exploratory-Data-Analysis-for-Price-Prediction
+This project analyzes housing data using Exploratory Data Analysis (EDA) to identify key factors influencing home prices. It involves data cleaning, visualization, and statistical insights to uncover trends, correlations, and anomalies. The findings help buyers, sellers, and analysts understand price determinants and market patterns.
